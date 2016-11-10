@@ -1,60 +1,61 @@
 .wrapper {
-  width: 1280px;
-  margin: 0 auto; }
+  margin: 0 auto;
+  width: 80em;
+   }
 
 .header {
   border-top: 10px solid #664735;
   background-color: #e8e8e8;
-  height: 426px; }
+  height: 26.6em; }
 
 .infoHeader {
-  width: 415px;
+  width: 26.324em;
   height: 115px;
   position: relative;
-  left: 206px; }
+  left: 13.16em; }
 
 .infoSalud {
   text-align: center;
-  width: 336px;
+  width: 21em;
   display: inline-block;
-  margin: 106px 0px 140px 73px; }
+  margin: 6.625em 0 8.75em 4.56em; }
 
 .infoU {
   background-color: #664735;
-  width: 630px;
-  height: 411px;
+  width: 39.37em;
+  height: 25.56em;
   position: relative;
-  left: 649px;
-  bottom: 415px; }
+  left: 40.56em;
+  bottom: 25.93em; }
 
 .infoU h3 {
-  margin: 0px 55px; }
+  margin: 0px 3.43em; }
 
 .infoU p {
   color: #fff;
-  font: 16px Myriad Pro, italic, sans-serif;
-  width: 505px;
-  margin: 38px 54px; }
+  font: 1em Myriad Pro, italic, sans-serif;
+  width: 31.56em;
+  margin: 2.37em 3.37em; }
 
 .galeria {
   text-align: center;
   position: relative;
-  bottom: 310px; }
+  bottom: 19.37em; }
 
 .footer {
   background-color: #664735;
-  height: 225px;
-  margin-bottom: 100px;
-  width: 1280px;
+  height: 15.93em;
+  margin-bottom: 15.93em;
+  width: 80em;
   margin: 0 auto; }
 
 .allInfo {
-  width: 236px;
+  width: 14.75em;
   display: inline-block;
   vertical-align: text-top;
   position: relative;
-  left: 163px;
-  top: 48px; }
+  left: 16.18em;
+  top: 3em; }
 
 * {
   margin: 0;
@@ -63,7 +64,7 @@
 h2 {
   color: #9d9c9d;
   text-transform: uppercase;
-  font: 18px Myriad Pro, italic, sans-serif; }
+  font: 1.125em Myriad Pro, italic, sans-serif; }
 
 h3 {
   color: #fff;
@@ -72,30 +73,30 @@ h3 {
 
 p {
   color: #b5b4b5;
-  font: 13px Myriad Pro, italic, sans-serif; }
+  font: 0.81em Myriad Pro, italic, sans-serif; }
 
 .logo {
   position: relative;
-  left: 118px;
-  bottom: 51px; }
+  left: 7.3em;
+  bottom: 3.18em; }
 
 .casa {
-  height: 14px; }
+  height: 0.87em; }
 
 .flechaI {
   position: relative;
-  right: 298px;
-  top: 108px; }
+  right: 18.6em;
+  top: 6.75em; }
 
 .flechaD {
   position: relative;
-  left: 718px;
-  top: 108px; }
+  left: 44.8em;
+  top: 6.75em; }
 
 .puntos {
   position: relative;
-  left: 154px;
-  top: 248px; }
+  left: 9.62em;
+  top: 15.5em; }
 
 .granosCafe {
   position: relative;
@@ -104,8 +105,8 @@ p {
 
 .circle {
   position: relative;
-  left: 751px;
-  top: 98px; }
+  left: 46.9em;
+  top: 6.125em; }
 
 a {
   text-decoration: none; }
@@ -114,15 +115,15 @@ ul {
   display: flex; }
 
 .redondo {
-  border-radius: 34px 0px 0px 34px; }
+  border-radius: 2.125em 0px 0px 2.125em; }
 
 .redondo1 {
-  border-radius: 0px 34px 34px 0px; }
+  border-radius: 0px 2.125em 2.125em 0px; }
 
 .header li {
   display: inline;
   list-style: none;
-  font: 10px Myriad Pro, italic, sans-serif; }
+  font: 0.625em Myriad Pro, italic, sans-serif; }
 
 .infoHeader a {
   color: #9d9c9d; }
@@ -132,7 +133,7 @@ ul {
 
 .infoSalud a {
   color: #664735;
-  font-size: 12px; }
+  font-size: 0.75em; }
 
 .menu button {
   background-color: #f4f4f4;
@@ -140,16 +141,16 @@ ul {
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 16px;
-  padding: 12px 24px;
+  font-size: 1em;
+  padding: 0.75em 1.5em;
   position: relative;
-  left: 650px;
+  left: 40em;
   bottom: 110px; }
 
 .botonU {
-  border-radius: 6px;
-  padding: 9px 15px;
-  margin: 5px 67px; }
+  border-radius: 0.37em;
+  padding: 0.56em 0.93em;
+  margin: 0.31em 4.18em; }
 
 .circle {
   float: left;
